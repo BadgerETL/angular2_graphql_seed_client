@@ -1,0 +1,23 @@
+{
+  "name": "angular2_graphql_boilerplate_client",
+  "version": "0.0.1",
+  "description": "Boilerplate for an Angular2 client which uses a GraphQL server for configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadgerETL/angular2_graphql_boilerplate_client.git"
+  },
+  "keywords": [
+    "Angular2",
+    "GraphQL"
+  ],
+  "author": "Ivan Histand <ivan@badgeretl.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadgerETL/angular2_graphql_boilerplate_client/issues"
+  },
+  "homepage": "https://github.com/BadgerETL/angular2_graphql_boilerplate_client#readme"
+}
